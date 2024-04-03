@@ -203,7 +203,7 @@ void PI_update(void) {
      */
 
      /// TODO: Divide the output into the proper range for output adjustment
-     output = (output >> 5); 
+     output = (output >> 5); // shortcut shown to me: output >>=5;
      /// TODO: Clamp the output value between 0 and 100 
     if (output > 100){
 			output = 100;

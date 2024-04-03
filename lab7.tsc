@@ -1,5 +1,5 @@
 #STM Touch Studio user settings - do not edit
-#Wed Mar 27 10:17:57 MDT 2024
+#Mon Apr 01 16:07:53 MDT 2024
 ExprVariable.Col0ModelIdx=0
 ExprVariable.Col0Width=15
 ExprVariable.Col1ModelIdx=1
@@ -174,8 +174,8 @@ Variable7.Color=0x990066
 Variable7.Name=target_rpm
 Variable7.Type=signed 16-bit
 Viewers.Synchronized=false
-ViewersLayout.IntegratedLayout.Weight.0=0.49227110582639716
-ViewersLayout.IntegratedLayout.Weight.1=0.5041617122473246
+ViewersLayout.IntegratedLayout.Weight.0=0.49108204518430437
+ViewersLayout.IntegratedLayout.Weight.1=0.5053507728894173
 ViewersLayout.IntegratedLayout.Weight.Size=2
 ViewersLayout.Position.0=-1
 ViewersLayout.Position.1=0
